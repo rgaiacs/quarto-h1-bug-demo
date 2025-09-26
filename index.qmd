@@ -1,7 +1,5 @@
 ---
 title: Untitled
-format:
-  mwe-html: default
 author: Raniere Gaia Costa da Silva
 date: last-modified
 ---
